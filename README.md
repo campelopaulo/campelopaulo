@@ -6,9 +6,7 @@
 
 Atualmente trabalho como desenvolvedor Flutter.
 
-Já trabalhei com desenvolvimento nativo para iOS
-
-Em 2014 participei do Apple Developer Academy (antigo BEPiD), um programa voltado à concepção e implementação de aplicativos para iOS.
+Já trabalhei com desenvolvimento nativo para iOS após participar do Apple Developer Academy (antigo BEPiD), um programa voltado à concepção e implementação de aplicativos para iOS.
 https://developeracademyucb.com.br
 
 <h2>Conhecimentos</h2>
