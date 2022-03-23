@@ -7,6 +7,7 @@
 Trabalhei com desenvolvimento nativo para iOS e atualmente trabalho usando o Flutter.
 
 Em 2014 participei do Apple Developer Academy (antigo BEPiD), um programa voltado à concepção e implementação de aplicativos para iOS.
+https://developeracademyucb.com.br
 
 <h2>Conhecimentos</h2>
 <b>Gerência de estado usando GetX e MobX</b>
