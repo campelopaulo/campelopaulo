@@ -4,7 +4,9 @@
 
 🎓 Formado em ciência da computação
 
-Trabalhei com desenvolvimento nativo para iOS e atualmente trabalho usando o Flutter.
+Atualmente trabalho como desenvolvedor Flutter.
+
+Já trabalhei com desenvolvimento nativo para iOS
 
 Em 2014 participei do Apple Developer Academy (antigo BEPiD), um programa voltado à concepção e implementação de aplicativos para iOS.
 https://developeracademyucb.com.br
